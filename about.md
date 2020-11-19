@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
+title: Ni Neu
 permalink: /about/
 ---
 
-Some information about you!
+### Gustoko gauzak
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Bizikletan ibili. Marraztu. Hizketan egin.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jarakama@posteo.net](mailto:jarakama@posteo.net)
