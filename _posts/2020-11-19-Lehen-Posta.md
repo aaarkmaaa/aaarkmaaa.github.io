@@ -13289,7 +13289,12 @@ if (outputEl) {{
     x.observe(outputEl, {childList: true});
 }}
 
-                        })                };                });            </script>        </div>
+})  
+};  
+});  
+</script>
+
+</div>
 
 </div>
 
